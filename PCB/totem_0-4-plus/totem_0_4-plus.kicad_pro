@@ -518,7 +518,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "/home/julius/development/TOTEM/PCB/totem_0-4-plus_gerbers/",
+      "plot": "totem_0-4-plus_gerbers/",
       "specctra_dsn": "",
       "vrml": ""
     },
